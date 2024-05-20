@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notícia do Dia</title>
+    <style>
+        /* Estilos CSS internos para formatação */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #f8f8f8;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 1px solid #ddd;
+        }
+        header img {
+            max-width: 100px;
+            display: block;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        h2 {
+            color: #630;
+            font-style: italic;
+        }
+        p {
+            text-align: justify;
+            margin: 15px 0;
+        }
+        .highlight {
+            background-color: yellow;
+        }
+        .quote {
+            font-style: italic;
+            color: #630;
+        }
+        .important {
+            font-weight: bold;
+            font-size: 1.1em;
+        }
+        .center {
+            text-align: center;
+        }
+        .underline {
+            text-decoration: underline;
+        }
+        footer {
+            background-color: #f8f8f8;
+            padding: 20px;
+            text-align: center;
+            border-top: 1px solid #ddd;
+        }
+        footer ul {
+            list-style: none;
+            padding: 0;
+        }
+        footer ul li {
+            display: inline;
+            margin: 0 10px;
+        }
+        main {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Logo do Portal de Notícias">
+        <h1>Notícias de Hoje</h1>
+    </header>
+    <main>
+        <article>
+            <h1>Nintendo NY celebra o lançamento de Paper Mario: The Thousand-Year Door (Switch) com evento especial</h1>
+            <h2>A loja da Nintendo em Nova Iorque, Estados Unidos, está se preparando para um evento exclusivo em celebração ao lançamento do remake de Paper Mario: The Thousand-Year Door para Nintendo Switch.</h2>
+            <p>Este clássico RPG da Intelligent Systems que cativou os fãs do GameCube com sua gameplay e narrativa cativantes retorna para uma nova geração de jogadores — portanto, não há nada mais justo que celebrar esta ocasião.</p>
+            <p>O evento acontecerá no sábado, dia 25 de maio de 2024, do meio-dia até às 15:00 horas, e contará com várias atividades temáticas envolvendo dobraduras e papercraft. Por enquanto, ainda não se sabe exatamente o que mais a Nintendo reserva para o evento — mas espera-se que os comparecentes possam mergulhar de cabeça no universo vibrante de Paper Mario.</p>
+            <p>E antes disso, ninguém menos que o próprio Mario dará as caras na Nintendo já na quinta-feira, dia 23 de maio, das 10:00 horas ao meio-dia.</p>
+            <p>A programação prevê uma série de festividades adequadas para a grande jornada de Mario e seus amigos de papel enquanto se desdobram para desvendar os mistérios da lendária porta milenar.</p>
+        </article>
+    </main>
+    <footer>
+        <ul>
+            <li><a href="https://facebook.com">Facebook</a></li>
+            <li><a href="https://twitter.com">Twitter</a></li>
+            <li><a href="https://instagram.com">Instagram</a></li>
+        </ul>
+    </footer>
+</body>
+</html>
